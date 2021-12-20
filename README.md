@@ -16,3 +16,5 @@ Here are some links to sites that give you a starting point on what you can code
 [WPILib Documentation](https://docs.wpilib.org/en/latest/index.html)
 
 [WPILib Base Classes](https://docs.wpilib.org/en/latest/docs/software/vscode-overview/creating-robot-program.html#choosing-a-base-class)
+
+If you have anything else you would like to add, feel free to do so!
