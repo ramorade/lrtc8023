@@ -3,7 +3,7 @@
 
 ## Welcome to the LRTC 8023 Github 
 
-### Small note: Work in the 'working' branch in order to create Pull Requests. That way whoever else is coding can help to review any changes so that careless mistakes are more easily avoided
+### Small note: Work in the 'working' branch if you want in order to create Pull Requests. This is assuming you have code that may break everything else, and you'd like to push it without destroying the previous progress. That way whoever else is coding can help to review any changes so that careless mistakes are more easily avoided
 
 In order to be able to code the robot, there are a few prerequisites. My (Omar's) assumption is that we will be using Java for our code. 
 Due to that, you need Java 11 SE, as well as the Visual Studio Code application. 
