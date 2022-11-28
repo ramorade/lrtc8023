@@ -50,7 +50,7 @@ public class ControlArmSubsystem extends SubsystemBase {
         
         // m_midRung.set(speed * -1);
         // //when the rope is under, it is positive
-        // //when it is over, it is megative
+        // //when it is over, it is negative
 
     }
 
